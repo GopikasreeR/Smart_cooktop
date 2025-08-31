@@ -88,7 +88,7 @@ An **IoT-enabled cooktop prototype** designed to enhance kitchen **safety, effic
    - `Adafruit_MLX90614.h`  
 
 ### Flashing Firmware  
-1. Open `Smart_cooktop.ino` in Arduino IDE.  
+1. Open `Final_Code.ino` in Arduino IDE.  
 2. Select **ESP32 Dev Module** and correct **COM port**.  
 3. Compile & upload the code.  
 
