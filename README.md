@@ -1,6 +1,6 @@
 # Smart Cooktop: IoT-Enabled Automated Kitchen  
 
-An **IoT-enabled cooktop prototype** designed to enhance kitchen **safety, efficiency, and precision** through real-time monitoring and automation. Developed as part of the **Microprocessors and Microcontrollers course at VIT Chennai**, this project showcases the practical integration of **embedded systems, IoT, and sensors** in modern culinary applications.  
+An **IoT-enabled cooktop prototype** designed to enhance kitchen **safety, efficiency, and precision** through real-time monitoring and automation. This project showcases the practical integration of **embedded systems, IoT, and sensors** in modern culinary applications.  
 
 ---
 
