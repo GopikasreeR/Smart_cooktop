@@ -1,6 +1,6 @@
 # Smart Cooktop: Automated Kitchen Prototype
 
-An **IoT-enabled cooktop prototype** designed to enhance kitchen **safety, efficiency, and precision** through real-time monitoring and automation. This project showcases the practical integration of **embedded systems and sensors** in modern culinary applications.  
+An **Automated cooktop prototype** designed to enhance kitchen **safety, efficiency, and precision** through real-time monitoring and automation. This project showcases the practical integration of **embedded systems and sensors** in modern culinary applications.  
 
 ---
 
